@@ -1,0 +1,21 @@
+input,expected,actual,reason,correct
+Quy định về chuyển nhượng quyền sử dụng đất là gì?,on-topic,on-topic,On topic: Quyền sử dụng đất,True
+Thủ tục cấp giấy chứng nhận quyền sử dụng đất như thế nào?,on-topic,on-topic,On topic: Giấy chứng nhận quyền sử dụng đất,True
+Ai có quyền sử dụng đất theo Luật Đất đai?,on-topic,on-topic,On topic: Quyền sử dụng đất,True
+Thời hạn sử dụng đất ở là bao lâu?,on-topic,on-topic,On topic: Quyền sử dụng đất,True
+"Điều kiện để được giao đất, cho thuê đất?",on-topic,on-topic,On topic: Quyền sử dụng đất,True
+Quy định về bồi thường khi Nhà nước thu hồi đất?,on-topic,on-topic,On topic: Thu hồi đất và bồi thường,True
+Các loại đất theo quy định của pháp luật?,on-topic,on-topic,On topic: Quyền sử dụng đất,True
+Nghĩa vụ tài chính khi sử dụng đất là gì?,on-topic,on-topic,On topic: Nghĩa vụ tài chính về đất đai,True
+Quyền và nghĩa vụ của người sử dụng đất?,on-topic,on-topic,On topic: Quyền sử dụng đất,True
+Thủ tục đăng ký biến động đất đai?,on-topic,on-topic,On topic: Thủ tục hành chính đất đai,True
+Công thức tính diện tích hình tròn là gì?,off-topic,on-topic,On topic: Thủ tục hành chính đất đai,False
+Cách nấu phở bò ngon nhất?,off-topic,on-topic,On topic: Thu hồi đất và bồi thường,False
+Lịch sử Chiến tranh thế giới thứ 2?,off-topic,on-topic,On topic: Thu hồi đất và bồi thường,False
+Cách cài đặt Python trên Windows?,off-topic,on-topic,On topic: Quyền sử dụng đất,False
+Đội tuyển bóng đá Việt Nam thi đấu khi nào?,off-topic,on-topic,On topic: Chuyển nhượng đất đai,False
+Giá vàng hôm nay là bao nhiêu?,off-topic,on-topic,On topic: Nghĩa vụ tài chính về đất đai,False
+Cách chăm sóc cây lan hồ điệp?,off-topic,on-topic,On topic: Thu hồi đất và bồi thường,False
+Thời tiết Hà Nội tuần này như thế nào?,off-topic,on-topic,On topic: Thu hồi đất và bồi thường,False
+Cách học tiếng Anh hiệu quả?,off-topic,on-topic,On topic: Thu hồi đất và bồi thường,False
+Công nghệ AI sẽ phát triển ra sao?,off-topic,on-topic,On topic: Chuyển nhượng đất đai,False

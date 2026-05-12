@@ -1,0 +1,11 @@
+question_id,human_winner,confidence,notes
+1,A,high,A is more accurate
+2,B,medium,B has better structure
+3,tie,low,Both equivalent quality
+4,A,high,A is more concise
+5,B,medium,B provides more detail
+6,tie,high,Both answers are equivalent
+7,A,medium,A is clearer
+8,B,high,B is more comprehensive
+9,A,low,Slight preference for A
+10,tie,medium,No clear winner
